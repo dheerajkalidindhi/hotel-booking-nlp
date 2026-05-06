@@ -1,0 +1,92 @@
+[
+  {"text": "who booked the most", "label": "top_user"},
+  {"text": "which user has most bookings", "label": "top_user"},
+  {"text": "top booking user", "label": "top_user"},
+  {"text": "user with highest bookings", "label": "top_user"},
+  {"text": "who made the most bookings", "label": "top_user"},
+  {"text": "highest number of bookings by user", "label": "top_user"},
+  {"text": "top user this week", "label": "top_user"},
+  {"text": "top user in hyderabad", "label": "top_user"},
+  {"text": "most bookings user in mumbai", "label": "top_user"},
+
+  {"text": "top 5 users by bookings", "label": "top_5_users"},
+  {"text": "who are the most frequent guests", "label": "top_5_users"},
+  {"text": "customers with most reservations", "label": "top_5_users"},
+
+  {"text": "which day has most bookings", "label": "max_booking_day"},
+  {"text": "day with highest bookings", "label": "max_booking_day"},
+  {"text": "which day is busiest", "label": "max_booking_day"},
+  {"text": "busiest day of week", "label": "max_booking_day"},
+
+  {"text": "which day has least bookings", "label": "min_booking_day"},
+  {"text": "lowest booking day", "label": "min_booking_day"},
+  {"text": "quietest day", "label": "min_booking_day"},
+
+  {"text": "show bookings this week", "label": "bookings_this_week"},
+  {"text": "bookings in last 7 days", "label": "bookings_this_week"},
+  {"text": "recent bookings", "label": "bookings_this_week"},
+  {"text": "this week reservations", "label": "bookings_this_week"},
+
+  {"text": "bookings between 2026-04-01 and 2026-04-30", "label": "date_range"},
+  {"text": "show bookings from may 2026", "label": "date_range"},
+  {"text": "reservations in june", "label": "date_range"},
+
+  {"text": "who are satisfied users", "label": "satisfied_users"},
+  {"text": "happy customers", "label": "satisfied_users"},
+  {"text": "users with good ratings", "label": "satisfied_users"},
+
+  {"text": "complaints", "label": "complaints"},
+  {"text": "bad reviews", "label": "complaints"},
+  {"text": "negative feedback", "label": "complaints"},
+  {"text": "complaints in mumbai", "label": "complaints"},
+
+  {"text": "best and worst ratings", "label": "best_worst_rating"},
+  {"text": "highest and lowest rated bookings", "label": "best_worst_rating"},
+
+  {"text": "bookings in hyderabad", "label": "bookings_by_city"},
+  {"text": "show bookings in mumbai", "label": "bookings_by_city"},
+  {"text": "reservations in delhi", "label": "bookings_by_city"},
+
+  {"text": "bookings for rahul", "label": "bookings_by_user"},
+  {"text": "show bookings of priya", "label": "bookings_by_user"},
+  {"text": "reservations by sneha", "label": "bookings_by_user"},
+
+  {"text": "total number of bookings", "label": "total_bookings"},
+  {"text": "how many bookings do we have", "label": "total_bookings"},
+
+  {"text": "average rating by city", "label": "avg_rating_city"},
+  {"text": "which city has best rating", "label": "avg_rating_city"},
+
+  {"text": "most popular city", "label": "popular_city"},
+  {"text": "which city has most bookings", "label": "popular_city"},
+
+  {"text": "average stay duration", "label": "avg_stay_duration"},
+  {"text": "how long do guests usually stay", "label": "avg_stay_duration"},
+
+  {"text": "longest stay", "label": "longest_stay"},
+  {"text": "maximum stay duration", "label": "longest_stay"},
+
+  {"text": "short stays", "label": "short_stay"},
+  {"text": "bookings with 1 or 2 nights", "label": "short_stay"},
+
+  {"text": "monthly bookings", "label": "monthly_bookings"},
+  {"text": "bookings per month", "label": "monthly_bookings"},
+
+  {"text": "peak booking month", "label": "peak_booking_month"},
+  {"text": "which month has most bookings", "label": "peak_booking_month"},
+
+  {"text": "rating distribution", "label": "rating_distribution"},
+  {"text": "rating breakdown", "label": "rating_distribution"},
+
+  {"text": "upcoming check-ins", "label": "upcoming_checkins"},
+  {"text": "future checkins", "label": "upcoming_checkins"},
+
+  {"text": "search reviews containing clean", "label": "search_review"},
+  {"text": "reviews about food", "label": "search_review"},
+
+  {"text": "hotel overall performance", "label": "hotel_performance"},
+  {"text": "best performing hotel", "label": "hotel_performance"},
+
+  {"text": "status summary", "label": "status_summary"},
+  {"text": "how many confirmed bookings", "label": "status_summary"}
+]
